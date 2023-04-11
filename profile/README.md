@@ -1,4 +1,3 @@
-# Atleon
 Atleon is reactive message processing framework based on [Reactive Streams](https://www.reactive-streams.org/) and backed by [Project Reactor](https://projectreactor.io/).
 
 Documentation is available in the [Wiki](../../..//atleon/wiki).
